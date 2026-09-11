@@ -1,0 +1,2 @@
+# LokalifyRepositorySetup
+Git Ropositi Lokalify
